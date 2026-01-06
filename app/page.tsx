@@ -256,8 +256,7 @@ export default function Home() {
                 ESP Weather Station
               </h1>
               <p className="text-sm text-slate-600">
-                Dashboard en vivo para {SENSOR_ID}. Auto-refresco cada 10
-                segundos.
+                Live dashboard for {SENSOR_ID}. Auto-refresh every 10 seconds.
               </p>
             </div>
           </div>
